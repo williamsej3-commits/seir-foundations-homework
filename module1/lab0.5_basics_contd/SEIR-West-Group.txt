@@ -1,0 +1,5 @@
+SEIR-West
+
+Spotter = John 
+Teammates = John Williams, John Williams, Michael Nyadimo, Tony Gentry
+Days + Times when your team meets = Monday & Thursday 6:30-8PST
