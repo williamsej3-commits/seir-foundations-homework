@@ -1,0 +1,31 @@
+https://chatgpt.com/share/6aea2986-14bc-83e8-8ae6-bd4d2af34666
+
+AI used = ChatGPT
+Conversation share link = https://chatgpt.com/share/6aea2986-14bc-83e8-8ae6-bd4d2af34666
+
+Q1: So any package can be uploaded to an EC2 before running it? Such as: git, python, cobol, etc.
+AI answer:es. You can install or upload software packages to an EC2 instance before running them. Git, Python, and GnuCOBOL are examples of software you can install on an EC2 instance. However, there is an important distinction between installing software, uploading software, and executing software.
+My answer: Yes, you can upload packages because EC2 is a server and a server can run packages.
+
+Q2: Do all of these have to be open source or can you upload something that is proprietary?
+AI answer: No. You can install or upload both open-source and proprietary software to an EC2 instance. The software does not have to be open source.
+EC2 is essentially a computer you rent from AWS. You control what software runs on it, provided you have the appropriate rights and licensing.
+My answer: Just like a personal computer since this is a rent computer you can run any software you have whether it is open source or proprietary. 
+
+Q3: Could I upload a personal language I developed for it to run even though there is on outside source (besides myself) that has this?
+AI answer: Absolutely. You can develop your own programming language, upload it to an EC2 instance, and configure EC2 to execute programs written in that language—even if no one else in the world has access to or uses it.
+You do not need your language to be open source, publicly available, or recognized by AWS.
+The important distinction is that EC2 doesn't inherently understand your language. You need to provide the software that makes it executable.
+My answer: Yes, you can, you just need to upload the necessary library for the server to understand and execute the language. 
+
+
+
+
+
+
+
+
+
+
+Where the AI was wrong, vague, or out of date:
+(at least one example, and how you found out)
