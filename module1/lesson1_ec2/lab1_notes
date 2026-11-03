@@ -1,0 +1,30 @@
+Run 1 - i-0e8c64098f551387c
+  Nothing different from class lab. No error during run. Did not understand anything additional.
+Run 2 - i-097d1e91cb3206f5d
+  Nothing different from class lab. No error during run. Did not understand anything additional.
+Run 3 - i-014bf824a40547166
+  Nothing different from class lab. No error during run. Did not understand anything additional.
+Run 4 - i-035a59434037853b
+  Nothing different from class lab. No error during run. Did not understand anything additional.
+Run 5 - i-043639fc8353ccf8a
+  Nothing different from class lab. No error during run. Did not understand anything additional.
+Run 6 - i-0d9c8676782608b3
+  Nothing different from class lab. No error during run. Did not understand anything additional.
+Run 7 - i-0d2504ec7bcbe85cc
+  Nothing different from class lab. No error during run. Did not understand anything additional.
+Run 8 - i-09c2eab1775d4c786
+  I ran the COBOL exercise this time. The errors I experienced was not getting the proper values because I was not returning the echo$? command after the initial command for account lookup. The echo command needs to be reiterated after the initial command, think of it as echo (recall) what was said but return the command value in the repsonse. 
+I did not konw you could clone your git rpo from this EC2 server until this run. 
+
+
+Mistakes I Made
+1) I ran the 7 attempts before having the instruction to show the Metadata as a requirement. Incorporated it in Run 8. 
+2) I did not run the Echo command correctly to very account look up. 
+
+
+
+COBOL Practice
+Run 8 - i-09c2eab1775d4c786
+3 accounts: Alice Johnson 100001 $50,0000, Robert Smith 100002 $27,500 , Maria Garcia 100003 $10,000
+
+
