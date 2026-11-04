@@ -18,14 +18,31 @@ You do not need your language to be open source, publicly available, or recogniz
 The important distinction is that EC2 doesn't inherently understand your language. You need to provide the software that makes it executable.
 My answer: Yes, you can, you just need to upload the necessary library for the server to understand and execute the language. 
 
+Q4: If I wanted to switch human languages (i.e. english to spanish) within the EC2 in mid way use would I be able to do that? Would involve the same process or does it do it automatically?
+AI Answer: Yes. You can switch the human language used by an application running on EC2, such as changing its interface or responses from English to Spanish, even while the application is running.
+However, whether it happens automatically depends on how the application was developed. EC2 itself does not automatically translate applications.
+
+There are three common approaches:
+1. Preprogrammed language switching
+You develop the application with multiple languages already included.
+2. Translation software or API
+You could integrate a translation service, such as Amazon Translate.
+3. Install additional language support
+If you want the operating system or application itself to support another language, you may need to install language packs, fonts, or localization dependencies.
+My answer: Yes, there are 3 approaches: install on your OS, use Amazon Transalte, multiple languages are used in the primary source code for the computer to understand.
+
+Q5: Doing this lab exercise and understanding it intimately what real world skills/experience would this be akin to?
+AI answer: If you complete this lab and understand why every command works, how the components communicate, and how to troubleshoot problems, you're developing skills associated with an entry-level Cloud Engineer, Junior Linux Systems Administrator, or Junior DevOps Engineer.
+What are you actually learning beyond AWS?
+I would break your experience into five technical disciplines:
+1. Cloud infrastructure: Understanding how virtual machines, networking, and cloud resources operate.
+2. Linux administration: Working in a command-line environment, installing packages, navigating directories, and executing programs.
+3. Application deployment: Taking software and making it operational on a remote server.
+4. Application architecture: Understanding how Python, COBOL, APIs, databases, and external services communicate.
+5. Troubleshooting: Identifying whether a problem originates from the operating system, application, network, dependencies, or configuration.
+
+My answer: There is a difference between following the runbook with execution and knowing/understanding it. The latter would enable you skills to become a junior level: Cloud Engineer, Linux Systems Administrator, DevOps Engineer, Backend/Platform Engineer. 
+The disciplines this lab invovles: Cloud infrastructure, linux administration, application deployment, application architecture, and troubleshooting. 
 
 
 
-
-
-
-
-
-
-Where the AI was wrong, vague, or out of date:
-(at least one example, and how you found out)
